@@ -26,7 +26,6 @@
         <form:input path="ejemplo"/>
         <br>
         <button type="submit" class="btn btn-outline-primary">Guardar Lengua</button>
-        
     </form:form>
 </div>
 

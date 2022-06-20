@@ -43,7 +43,7 @@ public class Lenguaje {
         this.idioma = idioma;
     }
 
-    public String getpaisLenguaa() {
+    public String getpaisLengua() {
         return paisLengua;
     }
 
